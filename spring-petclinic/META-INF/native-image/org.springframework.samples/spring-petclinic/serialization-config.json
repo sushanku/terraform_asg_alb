@@ -1,0 +1,11 @@
+[
+  {
+    "name": "org.springframework.samples.petclinic.model.BaseEntity"
+  },
+  {
+    "name": "org.springframework.samples.petclinic.model.Person"
+  },
+  {
+    "name": "org.springframework.samples.petclinic.vet.Vet"
+  }
+]
